@@ -1,151 +1,150 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&family=Inter:wght@400;700&family=Montserrat:wght@600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&family=Inter:wght@400;700&family=Montserrat:wght@600&display=swap");
 
 body {
-    background: linear-gradient(135deg, #e8f0f2 0%, #d4e6e9 100%);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 40px 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+  background: linear-gradient(135deg, #e8f0f2 0%, #d4e6e9 100%);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 table {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
-    border-collapse: collapse;
-    background-color: #ffffff;
-    border-radius: 16px;
-    overflow: hidden;
-    /* Agar border-radius terlihat */
-    box-shadow: 0 20px 35px -10px rgba(0, 0, 0, 0.2);
-    animation: fadeInUp 0.5s ease-out;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 20px 35px -10px rgba(0, 0, 0, 0.2);
+  animation: fadeInUp 0.5s ease-out;
 }
 
 caption span {
-    font-family: 'Poppins', 'Montserrat', sans-serif;
-    font-size: 32px;
-    font-weight: 800;
-    background: linear-gradient(120deg, #0d9488, #0f766e, #134e4a);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    display: block;
-    margin-bottom: 20px;
+  font-family: "Poppins", "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  background: linear-gradient(120deg, #0d9488, #0f766e, #134e4a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 20px;
 }
 
 th {
-    font-family: 'Poppins', 'Inter', sans-serif;
-    font-size: 16px;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    background: linear-gradient(135deg, #0f172a, #1e293b);
-    color: #f0fdfa;
-    padding: 16px 18px;
-    border-bottom: 3px solid #14b8a6;
-    text-align: left;
+  font-family: "Poppins", "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: #f0fdfa;
+  padding: 16px 18px;
+  border-bottom: 3px solid #14b8a6;
+  text-align: left;
 }
 
 td {
-    padding: 14px 18px;
-    vertical-align: top;
-    border-bottom: 1px solid #e2e8f0;
+  padding: 14px 18px;
+  vertical-align: top;
+  border-bottom: 1px solid #e2e8f0;
 }
 
 tr:nth-child(even) {
-    background-color: #f8fafc;
+  background-color: #f8fafc;
 }
 
 tr:nth-child(odd) {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 tr:hover td {
-    background-color: #fef9e6;
-    transition: background-color 0.25s ease;
+  background-color: #fef9e6;
+  transition: background-color 0.25s ease;
 }
 
 td:nth-child(1) {
-    font-family: 'Segoe UI', 'Roboto', sans-serif;
-    font-weight: 600;
-    color: #1e293b;
-    font-size: 15px;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  font-weight: 600;
+  color: #1e293b;
+  font-size: 15px;
 }
 
 td:nth-child(2) {
-    font-family: 'Courier New', 'Fira Code', monospace;
-    font-weight: 600;
-    color: #0f5c5f;
-    font-size: 14px;
+  font-family: "Courier New", "Fira Code", monospace;
+  font-weight: 600;
+  color: #0f5c5f;
+  font-size: 14px;
 }
 
 td:nth-child(3) {
-    font-family: 'Arial', sans-serif;
-    font-weight: bold;
-    color: #0d9488;
-    font-size: 13px;
-    text-transform: uppercase;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  color: #0d9488;
+  font-size: 13px;
+  text-transform: uppercase;
 }
 
 table p {
-    font-family: 'Georgia', 'Times New Roman', serif;
-    font-size: 14px;
-    font-weight: normal;
-    color: #c2410c;
-    line-height: 1.7;
-    font-style: italic;
-    background-color: #fff7ed;
-    padding: 10px 14px;
-    border-radius: 10px;
-    margin: 5px 0;
-    border-left: 4px solid #f97316;
-    transition: all 0.3s ease;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 14px;
+  font-weight: normal;
+  color: #c2410c;
+  line-height: 1.7;
+  font-style: italic;
+  background-color: #fff7ed;
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin: 5px 0;
+  border-left: 4px solid #f97316;
+  transition: all 0.3s ease;
 }
 
 table p:hover {
-    background-color: #ffedd5;
-    color: #9a3412;
-    border-left-color: #ea580c;
+  background-color: #ffedd5;
+  color: #9a3412;
+  border-left-color: #ea580c;
 }
 
 @keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
 
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 @media (max-width: 768px) {
-    table {
-        width: 100%;
-        font-size: 12px;
-    }
+  table {
+    width: 100%;
+    font-size: 12px;
+  }
 
-    td,
-    th {
-        padding: 10px 8px;
-    }
+  td,
+  th {
+    padding: 10px 8px;
+  }
 
-    table p {
-        font-size: 11px;
-        padding: 6px 10px;
-    }
+  table p {
+    font-size: 11px;
+    padding: 6px 10px;
+  }
 
-    td:nth-child(2) {
-        font-size: 11px;
-    }
+  td:nth-child(2) {
+    font-size: 11px;
+  }
 
-    caption span {
-        font-size: 24px;
-    }
+  caption span {
+    font-size: 24px;
+  }
 }
