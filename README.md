@@ -21,15 +21,11 @@ Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **I
 
 ---
 
-## 🛠️ Tech Stack & Magic
-Kami menggunakan kombinasi teknologi yang membuat tampilan web kami melayang dan bersinar:
-- **Neon Glassmorphism**: Memberikan efek kaca transparan pada tabel.
-- **Moving Background**: Gradien yang bergerak otomatis seolah-olah web sedang bernapas.
-- **Interactive Hover**: Di dalam kode aslinya, tabel akan memberikan respon visual saat disentuh!
+
 
 ---
 
-## 👥 Meet the Legends
+
 
 <details>
 <summary><b>Klik untuk melihat profil lengkap kami! 🖱️</b></summary>
