@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Vibe-Glassmorphism-0d9488?style=for-the-badge" alt="Vibe">
 </p>
 
----
 
 ## 🎭 Siapa Kami?
 Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **Informatika UTDI** yang percaya bahwa kode bukan cuma soal logika, tapi juga soal seni.
