@@ -10,19 +10,16 @@
   <img src="https://img.shields.io/badge/Vibe-Glassmorphism-0d9488?style=for-the-badge" alt="Vibe">
 </p>
 
-
 ## 🎭 Siapa Kami?
-Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **Informatika UTDI** yang percaya bahwa kode bukan cuma soal logika, tapi juga soal seni.
+Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **Informatika UTDI** 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
----
 
 
 
----
 
 
 
