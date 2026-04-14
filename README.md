@@ -11,36 +11,33 @@
 </p>
 
 ## 🎭 Siapa Kami?
-Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **Informatika UTDI** 
+
+Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **Informatika UTDI**
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
-
-
-
-
-
-
 <details>
 <summary><b>Klik untuk melihat profil lengkap kami! 🖱️</b></summary>
 
-| Nama | NIM | Jurusan |
-| :--- | :--- | :--- |
-| **Alvitho p Sipayung** | 255410023 | Informatika |
+| Nama                    | NIM       | Jurusan     |
+| :---------------------- | :-------- | :---------- |
+| **Alvitho p Sipayung**  | 255410023 | Informatika |
 | **M. Rezky Ayyriel R.** | 255410024 | Informatika |
-| **Rubu Yafo Putra** | 255410005 | Informatika |
+| **Rubu Yafo Putra**     | 255410005 | Informatika |
 
 </details>
 
-### 💡 Motivasi Terpilih
-> *"Di balik lelahmu, ada versi kuat dirimu yang sedang dibentuk."* — **Rubu Yafo**
+### 💡 Motivasi Kelompok
+
+> _"Di balik lelahmu, ada versi kuat dirimu yang sedang dibentuk."_
 
 ---
 
 ## 🚀 Status Aktivitas
-![](https://hit-os.com/github/stars/rubuproject/gamemystery?style=flat-square) 
+
+![](https://hit-os.com/github/stars/rubuproject/gamemystery?style=flat-square)
 ![](https://img.shields.io/github/forks/rubuproject/himaaweb?style=flat-square)
 
 ---
