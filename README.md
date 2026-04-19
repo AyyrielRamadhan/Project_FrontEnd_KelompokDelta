@@ -23,7 +23,7 @@ Selamat datang di repositori resmi **Kelompok Delta**! Kami adalah mahasiswa **I
 
 | Nama                    | NIM       | Jurusan     |
 | :---------------------- | :-------- | :---------- |
-| **Alvitho p Sipayung**  | 255410023 | Informatika |
+| **Alvitho p Sipayung**  | 255410026 | Informatika |
 | **M. Rezky Ayyriel R.** | 255410024 | Informatika |
 | **Rubu Yafo Putra**     | 255410005 | Informatika |
 
